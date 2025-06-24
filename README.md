@@ -10,7 +10,7 @@
 
 ## 👩🏽‍🔬 Sobre la instructora  
 Alex, originaria de Santiago de la Frontera en Santa Ana, es estudiante de doctorado en neurociencia en la University of Pennsylvania. Su investigación se centra en cómo el sistema inmunitario afecta al cerebro en la salud y la enfermedad.  
-Graduada en Neurociencia de Wellesley College, Alex investigó la etiología de la Esclerosis Múltiple en la Universidad de Washington en San Luis. Más adelante, recibió una beca Erasmus Mundus para completar un máster en Innovación en Biociencias para la Medicina de Precisión en España y Suiza, donde estudió encefalitis autoinmune.  
+Graduada en Neurociencia de Wellesley College, Alex investigó la etiología de la Esclerosis Múltiple en la Universidad de Washington en San Luis. Más adelante, recibió una beca Erasmus Mundus para completar un máster en Innovación en Biociencias para la Medicina de Precisión en España y Suiza, donde estudió encefalitis autoinmune.   
 Además de su investigación, Alex comparte su experiencia científica en redes sociales para ayudar a estudiantes a avanzar en sus estudios.
 
 ---
