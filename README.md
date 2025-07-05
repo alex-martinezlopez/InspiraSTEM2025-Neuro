@@ -69,12 +69,3 @@ Este curso introduce a los estudiantes a herramientas clave en la investigación
   [https://imagej.net/software/fiji/](https://imagej.net/software/fiji/)
 
 - **Microsoft Excel o Google sheets** – Cuantificación básica y representación de datos
-
----
-
-##  Nota Final
-Este taller forma parte del programa **InspiraSTEM**, una iniciativa para fomentar la participación de estudiantes salvadoreños en la ciencia a través de experiencias prácticas, inspiradoras y accesibles.
-
----
-
-¡Explora, aprende y comparte ciencia con propósito! 🧠✨
