@@ -8,19 +8,19 @@
 
 ---
 
-## 👩🏽‍🔬 Sobre la instructora  
+##  Sobre la instructora  
 Alex, originaria de Santiago de la Frontera en Santa Ana, es estudiante de doctorado en neurociencia en la University of Pennsylvania. Su investigación se centra en cómo el sistema inmunitario afecta al cerebro en la salud y la enfermedad.  
 Graduada en Neurociencia de Wellesley College, Alex investigó la etiología de la Esclerosis Múltiple en la Universidad de Washington en San Luis. Más adelante, recibió una beca Erasmus Mundus para completar un máster en Innovación en Biociencias para la Medicina de Precisión en España y Suiza, donde estudió encefalitis autoinmune.   
 Además de su investigación, Alex comparte su experiencia científica en redes sociales para ayudar a estudiantes a avanzar en sus estudios.
 
 ---
 
-## 📚 Descripción del curso  
+##  Descripción del curso  
 Este curso introduce a los estudiantes a herramientas clave en la investigación biomédica, con un enfoque en el análisis de imágenes inmunohistoquímicas. A través de un caso práctico de esclerosis múltiple, se aprenderá sobre modelos animales, microscopía confocal e interpretación de datos usando el software **Fiji/ImageJ**.
 
 ---
 
-## 🎯 Objetivos del curso
+##  Objetivos del curso
 - Comprender los fundamentos de la inmunohistoquímica y su uso en neurociencia
 - Definir anticuerpos primarios/secundarios, fluorocromos y microscopía confocal
 - Analizar imágenes biológicas usando Fiji/ImageJ
@@ -30,7 +30,7 @@ Este curso introduce a los estudiantes a herramientas clave en la investigación
 
 ---
 
-## 📆 Plan Diario
+##  Plan Diario
 
 ### **Día 1: Introducción a la esclerosis múltiple y la inmunohistoquímica**
 - Presentación de la instructora y los estudiantes
@@ -52,7 +52,7 @@ Este curso introduce a los estudiantes a herramientas clave en la investigación
 
 ---
 
-## 🧪 Recursos de preparación
+##  Recursos de preparación
 - Introducción a la inmunohistoquímica:  
   https://dismed.es/blog/introduccion-a-la-inmunohistoquimica-principios-y-aplicaciones/
 
@@ -64,7 +64,7 @@ Este curso introduce a los estudiantes a herramientas clave en la investigación
 
 ---
 
-## 🧰 Herramientas utilizadas
+##  Herramientas utilizadas
 - **Fiji/ImageJ** – Análisis de imágenes biológicas  
   [https://imagej.net/software/fiji/](https://imagej.net/software/fiji/)
 
@@ -72,7 +72,7 @@ Este curso introduce a los estudiantes a herramientas clave en la investigación
 
 ---
 
-## 💡 Nota Final
+##  Nota Final
 Este taller forma parte del programa **InspiraSTEM**, una iniciativa para fomentar la participación de estudiantes salvadoreños en la ciencia a través de experiencias prácticas, inspiradoras y accesibles.
 
 ---
