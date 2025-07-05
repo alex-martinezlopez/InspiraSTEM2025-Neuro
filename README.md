@@ -68,7 +68,7 @@ Este curso introduce a los estudiantes a herramientas clave en la investigación
 - **Fiji/ImageJ** – Análisis de imágenes biológicas  
   [https://imagej.net/software/fiji/](https://imagej.net/software/fiji/)
 
-- **Microsoft Excel** – Cuantificación básica y representación de datos
+- **Microsoft Excel o Google sheets** – Cuantificación básica y representación de datos
 
 ---
 
