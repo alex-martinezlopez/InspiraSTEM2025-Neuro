@@ -69,3 +69,7 @@ Este curso introduce a los estudiantes a herramientas clave en la investigación
   [https://imagej.net/software/fiji/](https://imagej.net/software/fiji/)
 
 - **Microsoft Excel o Google sheets** – Cuantificación básica y representación de datos
+
+- ##  Imagenes de immunohistochimica
+- https://drive.google.com/drive/u/0/folders/1NwK5XJffsMOhu-JJyGKwxHKa_Lufm47h
+- 
